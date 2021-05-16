@@ -12,10 +12,6 @@ images/test => there are 7 folders containing around total 7000 images
 
 The model has been trained over these images.
 
-Used *Transfer Learning (InceptionV3) technique* also along with normal CNN model.
-
-Also tried to optimize the CNN model.
-
 Libraries used in this project :
 
     1) OS, Numpy, Random, Matplotlib
